@@ -51,3 +51,6 @@
 2.[图像效果增强](https://cloud.baidu.com/product/imageprocess)
 
 * 请求方法：POST
+
+
+### [原型以及api调用请点击此查看](https://gitee.com/NFUNM172018423/API_ML_AI)
